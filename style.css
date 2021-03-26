@@ -1,0 +1,369 @@
+.row{
+	margin: 0px !important;
+}
+.info-div{
+	  /*height: 541px;*/
+background: linear-gradient(
+    to bottom,
+    rgba(0,68,152,0),
+    rgba(0,0,0,0)
+  ),url("../Mubina_ui_Assignment/images/Banner_mage.png");
+opacity: 2.9;
+
+ 
+	}
+.aster-logo-white {
+ /* width: 239px;*/
+  /*height: 199px;*/
+margin:10% 0px 0px 20%;
+}
+.adult-paediatric-b {
+  color: #FFFFFF;
+ font-family: Titillium;
+  font-size: 31px;
+  letter-spacing: 1.28px;
+  line-height: 40px;
+ /* width: 622px;*/
+  text-align: left;
+  margin:5% 0px 0px 20%;
+}
+.haematology-oncolo {
+  color: #FFFFFF;
+  font-family: StagSans;
+  font-size: 25px;
+  letter-spacing: 3.59px;
+  line-height: 34px;
+  
+  text-align: left;
+}
+.book-an-appoinment {
+  color: #FFFFFF;
+  font-family: Arial;
+  font-size: 14.4px;
+  line-height: 17px;
+  text-align: center;
+}
+.rectangle {
+  background-color: #DD5A6A;
+  border-radius: 3.2px;
+  /*width: 186px;*/
+  height: 45px;
+}
+
+.enquiry-div{
+
+  background-color: #FFFFFF;
+  box-shadow: -4px 2px 13px 0 rgba(85, 95, 126, 0.18);
+ /* width: 339px;*/
+  /*height: 492px;*/
+margin:25px 0px 0px 0px;
+width:80%;
+}
+.enquiry-div input{
+  width:80%;
+  margin: 5% 10% 5% 10%;
+}
+.enquire-now {
+  color: #213559;
+  font-family: StagSans;
+  font-size: 20.08px;
+  line-height: 24px;
+ 
+  text-align: left;
+  padding:30px 0px 0px 32px;
+}
+.rectangle-copy-2 {
+  background-color: #FFFFFF;
+  border: 0.87px solid #D0D0D0;
+  
+  height: 77px;
+   width:80%;
+  margin: 2% 10% 2% 10%;
+}
+.chk-box{
+	float: left;
+	background-color: #FFFFFF;
+  border: 0.87px solid #979797;
+  border-radius: 0.87px;
+  width: 18px !important;
+  height: 18px;
+  vertical-align: center;
+ margin: 10% 5% 10% 10% !important;
+}
+.im-not-a-robot {
+  color: #213559;
+  font-family: StagSans;
+  font-size: 12.22px;
+  line-height: 15px;
+  width: 92px;
+  text-align: left;
+
+margin: 10% 5% 10% 0% !important;
+}
+.submit {
+  color: #FFFFFF;
+  font-family: StagSans;
+  font-size: 14.84px;
+  line-height: 18px;
+  width: 54px;
+  text-align: center;
+}
+.rectangle-copy-4 {
+  background-color: #DD5A6A;
+  width: 111px;
+  height: 44px;
+  margin: 5% 5% 10% 10% !important;
+}
+.top-margin{
+  padding-top: 2%;
+}
+.div2-img-lft {
+  /*width: 422px;
+  height: 422px;*/
+  margin:0px 0px 0px 20%;
+  width:80%;
+  margin: 2% 10% 2% 10%;
+}
+.div2-rt-cnt{
+ background: linear-gradient(
+    to right,
+    
+   
+    rgba(46,196,184,50) ,
+    rgba(96,120,234,50)
+  );
+ /*background-image: radial-gradient(-35.15% 100%, #2EC4B8 0%, #6078EA 100%);*/
+  border-radius: 4px;
+   width: 80%;
+   margin: 2% 10% 2% 10%;
+}
+  
+  
+.bone-marrow-transpla {
+  color: #FFFFFF;
+  font-family: StagSans;
+  font-size: 18px;
+  line-height: 26px;
+ padding: 2%;
+  text-align: left;
+
+}
+.border-btm p
+{
+  border-bottom: 1px solid #ccc;
+  color: grey !important;
+   font-family: StagSans;
+   width: 80%;
+   font-size: 18px;
+  line-height: 26px;
+ margin: 2% 10% 2% 10%;
+  text-align: justify;
+}
+.doctors {
+  color: #22B78E;
+  font-family: StagSans;
+  font-size: 31px;
+  
+  margin-left: 10%;
+}
+.img-title{
+  color: #22B78E;
+  font-family: StagSans;
+  font-size: 18px;
+  letter-spacing: 0.99px;
+  padding: 1% 1% 0% 1%;
+  text-align: center;
+}
+.align-cntr{
+  text-align: center;
+  padding:2% 25% 2% 25%; 
+  
+}
+.doctor-intro{
+margin: 0% 10% 2% 10% !important;
+
+}
+.div-bg{
+background-color: #F9F9FF;
+  border-radius: 4px;
+ 
+}
+.dr-vijay-agarwal-copy {
+  color: #1D5AA6;
+  font-family: StagSans;
+  font-size: 20px;
+  
+ 
+  text-align: center;
+  padding: 1%
+}
+
+.md-mrcp-ph-d{
+color: #1D5AA6;
+  font-family: StagSans;
+  font-size: 14px;
+  
+  
+  text-align: center;
+}
+.line-5-copy {
+  border: 1px solid #22B78E;
+  width: 37px;
+  height: 1px;
+}
+.dr-vijay{
+  color: #000000;
+  font-family: StagSans;
+  font-size: 15px;
+ padding: 0% 1% 0% 1%;
+  text-align: center;
+}
+.rectangle2{
+  background: linear-gradient(
+    to right,
+    
+   
+    rgba(46,196,184,50) ,
+    rgba(96,120,234,50)
+  );
+  border-radius: 4px;
+ 
+  height: 49px;
+  margin: 0% 38% 0% 38%;
+}
+.know-more {
+  color: #FFFFFF;
+  font-family: StagSans;
+  font-size: 15px;
+  letter-spacing: 1px;
+  line-height: 18px;
+  text-align: center;
+
+}
+.line-3-copy-6 {
+  border: 1px solid #ECECFF;
+  width: 415px;
+  height: 2px;
+}
+.list-div{
+  margin: 0% 10% 2% 10% !important;
+  color: #000000;
+  font-family: StagSans;
+  font-size: 14px;
+  line-height: 39px;
+  
+  text-align: left;
+}
+.list-div li { list-style-image: url("../Mubina_ui_Assignment/images/hospital (2) copy 3.png"); } 
+
+.list-div li span{ margin-left: 10px; } 
+.rectangle-immune {
+  background-color: #FFFFFF;
+  border: 1px solid #E5EAFF;
+  border-radius: 4px;
+  box-shadow: 3px 5px 29px 0 rgba(187, 165, 228, 0.1);
+  padding: 5%;
+  margin: 2%;
+  height: 170px;
+
+}
+
+.failure-to-thrive {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 14px;
+  padding: 10% 2%;
+  
+  text-align: left;
+}
+.immune-img{
+  height:40px
+}
+.conditi {
+  color: #1D5AA6;
+  font-family: StagSans;
+  font-size: 20px;
+  letter-spacing: 1.6px;
+  line-height: 22px;
+  text-decoration: none !important;
+  text-align: left;
+  padding: 1% 2%;
+  background-color: #ffffff;
+}
+.drp-li li { list-style-image: url("../Mubina_ui_Assignment/images/double-tick-indicator.png"); } {
+
+}
+.drp-li{
+color: #000000;
+  font-family: StagSans;
+  font-size: 14px;
+  line-height: 30px;
+  
+  text-align: left;
+}
+.panel-default >.panel-heading{
+  background-color: #ffffff !important;
+  
+}
+.card-info{
+  background-color: #FFFFFF;
+  border-radius: 4px;
+  box-shadow: 9px 8px 27px 0 rgba(0, 0, 0, 0.04);
+  width: 517px;
+  height: 249px;
+  padding: 4% 2%;
+}
+.cst-info{
+  color: #000000;
+  font-family: StagSans;
+  font-size: 22px;
+  line-height: 26px;
+  text-align: left;
+
+}
+.cst-info2{
+  color: #000000;
+  font-family: StagSans;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: left;
+}
+.tst-info{
+   color: #000000;
+  font-family: StagSans;
+  font-size: 15px;
+  font-style: italic;
+  line-height: 21px;
+   padding: 4% 2%;
+  text-align: left;
+  clear: both;
+}
+.bt-app{
+  background-color: #004498;
+  border-radius: 3.81px;
+  padding: 1%;
+  color: #FFFFFF;
+  font-family: Arial;
+  font-size: 17.14px;
+  line-height: 21px;
+  margin: 2% 40% 1% 40%;
+  }
+.footer-div{
+  background-color: #272727;
+  
+  height: auto;
+}
+.sc-li{
+  padding: 4% 2%;
+  margin:0% 4% 0% 40%;
+
+}
+.sc-li li{
+  display: inline-block;
+  text-decoration: none;
+  color: #ffffff;
+padding: 0.5%;
+}
+.top-scr{
+ float:right; 
+}
